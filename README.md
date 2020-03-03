@@ -1,2 +1,0 @@
-# PopcornFactory
-Practica con GridView
